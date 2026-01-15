@@ -124,9 +124,3 @@ You can easily add, remove, or edit questions without touching any code.
   - `record_audio()`: Handles hardware interaction.
   - `transcribe()`: Wraps the Whisper inference logic.
   - `grade_response()`: Performs the vector embedding and similarity calculation.
-
----
-
-## Future Improvements
-- **LLM Integration**: Use Large Language Models (like GPT-4) for more nuanced feedback explaining *why* an answer was wrong.
-- **Database Support**: Store student results and progress over time.
