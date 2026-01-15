@@ -1,0 +1,10 @@
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Audio files (temporary recordings)
+*.wav
+
+# Streamlit/OS junk
+.DS_Store
+.streamlit/
